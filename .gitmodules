@@ -10,3 +10,6 @@
 [submodule "vimfiles/bundle/vim-taglist"]
 	path = vimfiles/bundle/vim-taglist
 	url = git@github.com:vim-scripts/taglist.vim.git
+[submodule "vimfiles/bundle/colorschemes"]
+	path = vimfiles/bundle/colorschemes
+	url = git@github.com:flazz/vim-colorschemes.git
