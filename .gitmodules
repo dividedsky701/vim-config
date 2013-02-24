@@ -4,3 +4,6 @@
 [submodule "vimfiles/bundle/vim-powerline"]
 	path = vimfiles/bundle/vim-powerline
 	url = git@github.com:Lokaltog/vim-powerline.git
+[submodule "vimfiles/bundle/vim-nerdtree"]
+	path = vimfiles/bundle/vim-nerdtree
+	url = git@github.com:scrooloose/nerdtree.git
