@@ -14,5 +14,3 @@ Then you can use symbolic links:
 	ln -s /path/to/vim-config/.vimrc ~/.vimrc
 
 	ln -s /path/to/vim-config/vimfiles ~/.vim
-
-git submodule update --init
