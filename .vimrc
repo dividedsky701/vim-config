@@ -9,6 +9,7 @@
 " Setup pathogen stuff
 runtime bundle/vim-pathogen/autoload/pathogen.vim
 execute pathogen#infect()
+call pathogen#helptags()
 
 " Basic Settings
 set nocompatible                " if I wanted compatible mode...I'd use Vi
